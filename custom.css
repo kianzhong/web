@@ -1,0 +1,23 @@
+.bluetext{
+  width:50%;
+  height: auto;
+  color:blue;
+}
+.eww{
+  text-align: center;
+  width:25%;
+  height:1000px;
+  background-color:#6F3C32;
+  font-size: 100px;
+  color: white;
+  font-family: Comic Sans MS;
+  border-radius: 25px;
+}
+.disgust{
+  width:16%;
+  background-color:#2D9986;
+}
+.grosspurple{
+  width:10%;
+  background-color:#762482;
+}
